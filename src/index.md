@@ -1,1 +1,8 @@
-Hello! This is my first 11ty project. 
+---
+title: "Home"
+layout: "base.njk"
+---
+
+# Welcome to My 11ty Site
+
+This is the home page. Check out the [show page](./show/).
